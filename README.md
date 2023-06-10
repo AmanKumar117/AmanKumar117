@@ -24,7 +24,7 @@
 
 ## ⚡ Language & Technologies
 <h2 align="left">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,react,express,git,github,mongo,mysql,azure,handlebars,php,nodejs">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,react,express,git,github,mongo,mysql,azure,php,nodejs">
 </h2>
 
  <br/>
